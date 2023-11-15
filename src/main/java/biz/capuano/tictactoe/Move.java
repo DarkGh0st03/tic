@@ -8,7 +8,7 @@ class Move {
     public Move(int row, int col) {
         this.row = row;
         this.col = col;
-        int x = 0;
+        this.x = 0;
     }
 
     public int getRow() {
