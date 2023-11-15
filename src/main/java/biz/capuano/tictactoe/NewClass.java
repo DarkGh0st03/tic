@@ -10,5 +10,6 @@ package biz.capuano.tictactoe;
  * @author giuli
  */
 public class NewClass {
-    
+    private int x;
+    private int y;
 }
